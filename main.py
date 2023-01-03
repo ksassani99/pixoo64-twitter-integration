@@ -47,7 +47,7 @@ def printTweet(strText, userStr, userPic):
 
             printScreen(15, userStr, userPic)
     else:
-        pixoo.draw_text(str, (0, 9))
+        pixoo.draw_text(strText, (0, 9))
 
         printScreen(15, userStr, userPic)
 
