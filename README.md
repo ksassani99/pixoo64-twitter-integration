@@ -2,6 +2,8 @@
 Gets Tweets from a specified Twitter List ID (found in the link of the Twitter List)
 (Ex: List ID = 1609653853804441600, https://twitter.com/i/lists/1609653853804441600)
 
+Note: Only works on Divoom Pixoo 64, not other wifi Pixoo devices (Ex: Pixoo 16)
+
 The Following is Shown for each Tweet on the Pixoo Screen:
 - Tweet Text (middle)
 - Tweet Author Profile Picture (bottom left)
